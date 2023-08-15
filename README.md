@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lib-zhouyang-yl
+- 👋 Hi, I’m @yl
 - 👀 I’m interested in SV research
 - 🌱 I’m currently learning Genomic Structural Variation
 - 💞️ I’m looking to collaborate on ...
